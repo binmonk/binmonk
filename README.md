@@ -1,16 +1,17 @@
-### Hi there 👋
+![Just another noob dev.](https://w0.peakpx.com/wallpaper/743/684/HD-wallpaper-light-technology-brain-binary.jpg)
+### Hi there 👋, name is B Monk
+#### Just another noob dev.
 
-<!--
-**binmonk/binmonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Love to poke around various kind of codes and dev.
+A bit of unix(GnU) lover. 
+Passionate about reading. 
+Learning to secure the cyber space.
 
-Here are some ideas to get you started:
+Skills: - Reading the Man.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C# / ASP.NET / Python / JS 
+- ⚡ Fun fact: I am not funny at all. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/binmonk)  
+
